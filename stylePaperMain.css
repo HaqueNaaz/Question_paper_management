@@ -1,0 +1,40 @@
+.pageContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-width: 1.5px;
+    border-color: #dddddd;
+    border-style: solid;
+    padding: 20px;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15), 6px 10px 10px 0 rgba(0, 0, 0, 0.05);
+}
+
+.paperInfo{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bruh{
+    width: 33%;
+}
+
+.bruh p{
+    margin: 0;
+    padding: 0;
+}
+
+.titleContainer{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+
+}
+
